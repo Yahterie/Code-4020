@@ -1,0 +1,4 @@
+POST http://challenge.code2040.org/api/register
+
+"token": "211b6daddc1096b3173a543243c123c6"
+"github": "https://github.com/Yahterie/Code-4020"
